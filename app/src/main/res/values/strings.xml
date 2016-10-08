@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestProj2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_for_name">Имя</string>
+    <string name="title_for_soname">Фамилия</string>
+    <string name="title_for_age">Возраст</string>
+    <string name="title_for_button">Add data</string>
+</resources>

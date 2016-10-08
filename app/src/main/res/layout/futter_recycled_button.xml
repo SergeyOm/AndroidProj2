@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_gravity="bottom">
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:text="1"
+                />
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:text="2"
+                />
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:text="3"
+                />
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:text="4"
+                />
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                android:text="5"
+                />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</LinearLayout>
